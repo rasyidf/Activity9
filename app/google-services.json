@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "343730681049",
+    "project_id": "kontakku-29149",
+    "storage_bucket": "kontakku-29149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343730681049:android:9ec1b81666f5910b5dbac8",
+        "android_client_info": {
+          "package_name": "com.rasyidf.kontakku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343730681049-40fe9cenmmq5vf9o846qjkt3987uta08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz9JQkJN8q0c5bXVzP0Qd4InG2O1XPPl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343730681049-40fe9cenmmq5vf9o846qjkt3987uta08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
